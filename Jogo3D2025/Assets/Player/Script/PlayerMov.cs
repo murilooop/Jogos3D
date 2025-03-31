@@ -4,7 +4,7 @@ using UnityEngine;
 using UnityEngine.EventSystems;
 using UnityEngine.SceneManagement;
 
-public class PlayerGrunt : MonoBehaviour
+public class PlayerMov: MonoBehaviour
 {
     public float Speed;
     public float RotSpeed;
